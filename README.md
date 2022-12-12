@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, Solana, AWS**
 
-- 👨‍💻 All of my projects are available at [https://www.sjyu.xyz/builds](https://www.sjyu.xyz/builds)
+- 👨‍💻 All of my projects are available at [https://www.sjyu.xyz/builds](https://www.sjyu.xyz/#builds)
 
 - 💬 Ask me about **Python, AI/ML, Web3, Solidity**
 
