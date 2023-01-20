@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Tensorflow, Solana, AWS**
 
-- 👨‍💻 All of my projects are available at [https://www.sjyu.xyz/#builds](https://www.sjyu.xyz/#builds)
+- 👨‍💻 All of my projects are available [https://www.sjyu.xyz/#portfolio](here)
 
 - 💬 Ask me about **Python, AI/ML, Web3, Solidity, DeFi**
 
 - 📫 How to reach me **yshijie1999@gmail.com**
 
-- 📄 Know about my experiences [https://www.sjyu.xyz/resume.pdf](https://www.sjyu.xyz/resume.pdf)
+- 📄 Know about my experiences [https://www.sjyu.xyz/assets/resume.pdf](here)
 
 - ⚡ Fun fact **I love animals and nature**
 
