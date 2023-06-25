@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yshijie1999@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.sjyu.xyz/assets/resume.pdf)
+- 📄 Know about my experiences [here](https://www.sjyu.xyz/resume.pdf)
 
 - ⚡ Fun fact **I love animals and nature**
 
