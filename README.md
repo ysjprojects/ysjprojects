@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shi Jie</h1>
-<h3 align="center">An aspiring data scientist and blockchain enthusiast</h3>
+<h3 align="center">A passionate Blockchain and AI builder</h3>
 
-- 🌱 I’m currently learning **PyTorch, Google Cloud Platform (MLOps), Zero-Knowledge Proofs**
+- 🌱 I’m currently learning **PyTorch, Google Cloud Platform (MLOps), Zero-Knowledge**
 
 - 👨‍💻 All of my projects are available [here](https://www.sjyu.xyz/#portfolio)
 
