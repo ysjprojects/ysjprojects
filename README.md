@@ -13,13 +13,6 @@
 
 - ⚡ Fun fact **I love animals and nature**
 
-<h3 align="left">Experiences:</h3>
-<p align="left">
-<a href="https://devpost.com/software/pixel-protocol" target="blank">Chainlink Spring Hackathon 2022</a><br/>
-<a href="https://mobile.twitter.com/SurfEasier/status/1605567664620830720" target="blank">Solana Builders League</a><br/>
-<a href="https://devpost.com/software/pandabond-zvw70p" target="blank">NUS Fintech Month Hackathon 2023</a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sjyuxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjyuxyz" height="30" width="40" /></a>
