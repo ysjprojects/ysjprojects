@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hiyouga&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
-<img align="right" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ysjprojects" alt="ysjprojects" />
 
 <h1 align="center">Hi 👋, I'm Shi Jie</h1>
 <h3 align="center">An aspiring AI Engineer/Researcher</h3>
