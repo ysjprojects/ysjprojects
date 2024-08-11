@@ -18,8 +18,9 @@
 
 ## Research Interests
 
-- Large Language Models (LLMs)
-- Efficient LLMs
+- Large Language Models
+- Efficient LLM
+- LLM Alignment
 
 ## Skills
 
