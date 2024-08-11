@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=ysjprojects" alt="ysjprojects" />
 
 <h1 align="center">Hi 👋, I'm Shi Jie</h1>
-<h3 align="center">An aspiring AI Engineer/Researcher</h3>
+<h3 align="center">CS@NYU; aspiring AI Engineer/Researcher</h3>
 
 - 🌱 I’m currently learning **JAX, Local LLM Training + Inference, Knowledge Distillation, Retrieval Augmented Generation**
 
