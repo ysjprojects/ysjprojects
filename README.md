@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Transformers, Local LLM Training + Inference, Model Fusion, Smart Contracts in Solidity**
 
-- 📫 How to reach me: (1) **yshijie1999@gmail.com** or (2) **sy4468@nyu.edu**
+- 📫 How to reach me: **yshijie1999@gmail.com** OR **sy4468@nyu.edu**
 
 - 📄 Know about my experiences [here](https://www.sjyu.xyz/cv.pdf)
 
