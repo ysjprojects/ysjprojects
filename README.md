@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **yshijie1999@gmail.com** OR **sy4468@nyu.edu**
 
-- 📄 Know about my experiences [here](https://www.sjyu.xyz/cv.pdf)
+- 📄 Know about my experiences [here](https://www.sjyu.xyz/cv)
 
 ## Education
 
