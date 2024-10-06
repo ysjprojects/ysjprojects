@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAX, Local LLM Training + Inference, Knowledge Distillation, Retrieval Augmented Generation**
 
-- 💬 Ask me about **Transformers, Local LLM Training + Inference, Efficient LLMs, Human Preference Alignment, Smart Contracts in Solidity**
+- 💬 Ask me about **Transformers, Local LLM Training + Inference, Efficient LLMs, Human Preference Alignment, Smart Contracts**
 
 - 📫 How to reach me: **yshijie1999@gmail.com** OR **sy4468@nyu.edu**
 
