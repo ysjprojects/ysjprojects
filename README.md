@@ -13,8 +13,8 @@
 
 ## Education
 
-- 09/2024-*Present* MS in Computer Science, New York University
-- 08/2020-05/2024 BSc in Business Analytics (with Honours), National University of Singapore
+- 09/2024-*Present* Master's in Computer Science, New York University
+- 08/2020-05/2024 Bachelor of Science in Business Analytics (with Honours), National University of Singapore
 
 ## Research Interests
 
