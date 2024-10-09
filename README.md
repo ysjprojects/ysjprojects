@@ -27,7 +27,7 @@
 - Programming Language: **Python**; SQL (PostgreSQL, Spark SQL); JavaScript; TypeScript; Solidity; C++; Bash
 - AI and ML: PyTorch; JAX; Pandas; Scikit-Learn
 - Natural Language: English (Native); Chinese (Native); Korean (Basic)
-- Hobbies: Bouldering, Cycling, Piano, Traveling
+- Hobbies: Bouldering; Cycling; Piano; Traveling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
