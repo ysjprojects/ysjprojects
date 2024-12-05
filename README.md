@@ -21,6 +21,7 @@
 - Large Language Models
 - Efficient LLM
 - LLM Alignment
+- Synthetic Data Generation
 
 ## Skills
 
