@@ -23,6 +23,11 @@
 - LLM Alignment
 - Synthetic Data Generation
 
+## Open-source Contributions
+
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): added Qwen series models + other language models including Llama-3.3-70B-Instruct, SmolLM2 models, etc.
+- [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): added MMLU-Pro and GSM-Plus benchmarks.
+
 ## Skills
 
 - Programming Language: **Python**; SQL (PostgreSQL, Spark SQL); JavaScript; TypeScript; Solidity; C++; Bash
