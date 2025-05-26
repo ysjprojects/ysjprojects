@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shi Jie</h1>
 <h3 align="center">CS@NYU; aspiring AI Engineer/Researcher</h3>
 
-- 🌱 I’m currently learning **JAX, Local LLM Training + Inference, Knowledge Distillation, Retrieval Augmented Generation**
+- 🌱 I’m currently learning **Local LLM Training + Inference, Preference Optimization, Agentic AI, Model Context Protocol**
 
 - 💬 Ask me about **Transformers, Local LLM Training + Inference, Efficient LLMs, Synthetic Data Generation, Human Preference Alignment, Smart Contracts**
 
