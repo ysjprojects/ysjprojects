@@ -27,6 +27,7 @@
 
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): added Qwen series models + other language models including Llama-3.3-70B-Instruct, SmolLM2 models, etc.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): added MMLU-Pro and GSM-Plus benchmarks.
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): fixed gemma-3 bug
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
