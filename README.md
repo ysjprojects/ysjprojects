@@ -43,7 +43,6 @@
 ![](https://img.shields.io/badge/Libraries-PyTorch-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Libraries-Transformers-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Libraries-LitGPT-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Libraries-LLaMAFactory-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Libraries-Gradio-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Libraries-vLLM-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
