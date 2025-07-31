@@ -61,5 +61,5 @@
 <a href="https://linkedin.com/in/sjyuxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjyuxyz" height="30" width="40" /></a>
 </p>
 
-## Acknowledgement
+## Acknowledgements
 - Profile Pic: all credit goes to [u/King_of_FAX__No_Cap](https://www.reddit.com/user/King_of_FAX__No_Cap/)
