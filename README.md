@@ -19,7 +19,7 @@
 ## Research Interests
 
 - Large Language Models
-- Efficient LLM
+- RLHF / RLVR
 - LLM Alignment
 - Synthetic Data Generation
 
