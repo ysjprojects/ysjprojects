@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Shi Jie</h1>
 <h3 align="center">CS@NYU; aspiring AI Engineer/Researcher</h3>
 
-- 🌱 I’m currently learning **Local LLM Training + Inference, Preference Optimization, Agentic AI, Model Context Protocol**
+- 🌱 I’m currently learning **Local LLM Training + Inference, RLVR, Agentic AI, Model Context Protocol**
 
-- 💬 Ask me about **Transformers, Local LLM Training + Inference, Efficient LLMs, Synthetic Data Generation, Human Preference Alignment, Smart Contracts**
+- 💬 Ask me about **Transformers, Local LLM Training + Inference, Efficient LLMs, Synthetic Data Generation, Reinforcement Learning from Human Feedback**
 
 - 📫 How to reach me: **yshijie1999@gmail.com** OR **sy4468@nyu.edu**
 
