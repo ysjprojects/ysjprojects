@@ -32,11 +32,13 @@
   - Fixed incorrect gradient accumulation steps [#1947](https://github.com/Lightning-AI/litgpt/pull/1947)
   - Added OlMo 2 by AI2 [#1897](https://github.com/Lightning-AI/litgpt/pull/1897) and SmolLM 2 by Hugging Face [#1848](https://github.com/Lightning-AI/litgpt/pull/1848)
   - (first commit) Added Qwen 2.5 series models [#1834](https://github.com/Lightning-AI/litgpt/pull/1834)
-  - ... and many more
 - [huggingface/aisheets](https://github.com/huggingface/aisheets): 2 commits
   - Added DuckDB parameterized queries for greater type safety in building SQL statements [#430](https://github.com/huggingface/aisheets/pull/430)
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): 4 commits
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): fixed gemma-3 bug
+  - Implemented GSM-Plus [#2103](https://github.com/EleutherAI/lm-evaluation-harness/pull/2103) 
+  - Implemented MMLU-Pro [#1961](https://github.com/EleutherAI/lm-evaluation-harness/pull/1961)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): 1 commit
+  - Fixed use_cache patching for Gemma 3 multimodal models [#7500](https://github.com/hiyouga/LLaMA-Factory/pull/7500)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
