@@ -25,8 +25,17 @@
 
 ## Open-source Contributions
 
-- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): added Qwen series models + other language models including Llama-3.3-70B-Instruct, SmolLM2 models, etc.
-- [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): added MMLU-Pro and GSM-Plus benchmarks.
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): 33 commits
+  - Implemented Multihead Latent Attention (DeepseekV3Attention) architecture [#2113](https://github.com/Lightning-AI/litgpt/pull/2113)
+  - Optimized LoRA finetune script [#2086](https://github.com/Lightning-AI/litgpt/pull/2086)
+  - Added Qwen 3 series models (Dense + MoE) [#2125](https://github.com/Lightning-AI/litgpt/pull/2125), [#2110](https://github.com/Lightning-AI/litgpt/pull/2110), [#2060](https://github.com/Lightning-AI/litgpt/pull/2060), [#2046](https://github.com/Lightning-AI/litgpt/pull/2046), [#2044](https://github.com/Lightning-AI/litgpt/pull/2044)
+  - Fixed incorrect gradient accumulation steps [#1947](https://github.com/Lightning-AI/litgpt/pull/1947)
+  - Added OlMo 2 by AI2 [#1897](https://github.com/Lightning-AI/litgpt/pull/1897) and SmolLM 2 by Hugging Face [#1848](https://github.com/Lightning-AI/litgpt/pull/1848)
+  - (first commit) Added Qwen 2.5 series models [#1834](https://github.com/Lightning-AI/litgpt/pull/1834)
+  - ... and many more
+- [huggingface/aisheets](https://github.com/huggingface/aisheets): 2 commits
+  - Added DuckDB parameterized queries for greater type safety in building SQL statements [#430](https://github.com/huggingface/aisheets/pull/430)
+- [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): 4 commits
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): fixed gemma-3 bug
 
 ## 🔧 Technologies & Tools
